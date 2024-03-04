@@ -1,6 +1,6 @@
 # Welcome to Flyflow 👋 🚀
 
-> Flyflow is API middleware to optimize LLM applications, same response quality, 5x lower latency, secure, and much higher token limits
+> Flyflow is high performance API middleware to optimize LLM applications, same response quality, 5x lower latency, secure, and much higher token limits
 
 When building on top of LLMs, builders care about the following: 
 
